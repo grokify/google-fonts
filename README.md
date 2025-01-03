@@ -8,7 +8,7 @@
 
 This package provides a very limited number of [Google Fonts](https://fonts.google.com/), licensed under the Apache 2.0 license, that can be embedded in Go programs.
 
-It is designed to be used with packages that can import TTF fonts such as [`github.com/essentialkaos/go-badge`](https://github.com/essentialkaos/go-badge).
+It is designed to be used with packages that can import TTF fonts as bytes such as [`github.com/essentialkaos/go-badge`](https://github.com/essentialkaos/go-badge).
 
 Currenty, the following font families are supported:
 
