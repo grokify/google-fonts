@@ -4,4 +4,4 @@ This package provides a very limited number of [Google Fonts](https://fonts.goog
 
 Currenty, the following font families are supported:
 
-1. Roboto
+1. Roboto ([on `fonts.google.com`](https://fonts.google.com/specimen/Roboto))
