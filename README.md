@@ -36,11 +36,10 @@ robotoRegularTTFBytes := roboto.RobotoRegular()
  [goreport-svg]: https://goreportcard.com/badge/github.com/grokify/google-fonts
  [goreport-url]: https://goreportcard.com/report/github.com/grokify/google-fonts
  [docs-godoc-svg]: https://pkg.go.dev/badge/github.com/grokify/google-fonts
- [docs-godoc-url]: https://pkg.go.dev/github.com/grokify/google-fonts/v2
+ [docs-godoc-url]: https://pkg.go.dev/github.com/grokify/google-fonts
  [license-svg]: https://img.shields.io/badge/license-MIT-blue.svg
  [license-url]: https://github.com/grokify/google-fonts/blob/main/LICENSE.txt
  [used-by-svg]: https://sourcegraph.com/github.com/grokify/google-fonts/-/badge.svg
  [used-by-url]: https://sourcegraph.com/github.com/grokify/google-fonts?badge
  [loc-svg]: https://tokei.rs/b1/github/grokify/google-fonts
  [repo-url]: https://github.com/grokify/google-fonts
- 
