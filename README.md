@@ -8,11 +8,21 @@
 
 This package provides a very limited number of [Google Fonts](https://fonts.google.com/), licensed under the Apache 2.0 license, that can be embedded in Go programs.
 
+It is designed to be used with packages that can import TTF fonts such as [`github.com/essentialkaos/go-badge`](https://github.com/essentialkaos/go-badge).
+
 Currenty, the following font families are supported:
 
 1. Roboto ([on `fonts.google.com`](https://fonts.google.com/specimen/Roboto))
 
 The `main.go` file in the root folder auto-generates Go files.
+
+## Usage
+
+```go
+import "github.com/grokify/google-fonts/roboto"
+
+robotoRegularTTFBytes := roboto.RobotoRegular()
+```
 
 ## Adding fonts
 
@@ -33,3 +43,4 @@ The `main.go` file in the root folder auto-generates Go files.
  [used-by-url]: https://sourcegraph.com/github.com/grokify/google-fonts?badge
  [loc-svg]: https://tokei.rs/b1/github/grokify/google-fonts
  [repo-url]: https://github.com/grokify/google-fonts
+ 
