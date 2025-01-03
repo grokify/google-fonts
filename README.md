@@ -12,6 +12,15 @@ Currenty, the following font families are supported:
 
 1. Roboto ([on `fonts.google.com`](https://fonts.google.com/specimen/Roboto))
 
+The `main.go` file in the root folder auto-generates Go files.
+
+## Adding fonts
+
+1. Download the zip file from fonts.google.com
+2. Unzip into new subfolder
+3. Lower-case the subfolder name
+4. Run `go run main.go <new_folder_name>`
+
  [build-status-svg]: https://github.com/grokify/google-fonts/workflows/test/badge.svg
  [build-status-url]: https://github.com/grokify/google-fonts/actions/workflows/test.yaml
  [goreport-svg]: https://goreportcard.com/badge/github.com/grokify/google-fonts
