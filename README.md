@@ -14,7 +14,7 @@ Currenty, the following font families are supported:
 
 1. Roboto ([on `fonts.google.com`](https://fonts.google.com/specimen/Roboto))
 
-The `main.go` file in the root folder auto-generates Go files.
+The `main.go` file in the root folder auto-generates Go files and is only needed for adding additional fonts.
 
 ## Usage
 
