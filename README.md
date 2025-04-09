@@ -31,8 +31,8 @@ robotoRegularTTFBytes := roboto.RobotoRegular()
 3. Lower-case the subfolder name
 4. Run `go run main.go <new_folder_name>`
 
- [build-status-svg]: https://github.com/grokify/google-fonts/workflows/test/badge.svg
- [build-status-url]: https://github.com/grokify/google-fonts/actions/workflows/test.yaml
+ [build-status-svg]: https://github.com/grokify/google-fonts/actions/workflows/ci.yaml/badge.svg?branch=master
+ [build-status-url]: https://github.com/grokify/google-fonts/actions/workflows/ci.yaml
  [goreport-svg]: https://goreportcard.com/badge/github.com/grokify/google-fonts
  [goreport-url]: https://goreportcard.com/report/github.com/grokify/google-fonts
  [docs-godoc-svg]: https://pkg.go.dev/badge/github.com/grokify/google-fonts
