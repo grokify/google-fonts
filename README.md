@@ -1,6 +1,7 @@
 # Google Fonts
 
 [![Build Status][build-status-svg]][build-status-url]
+[![Lint Status][lint-status-svg]][lint-status-url]
 [![Go Report Card][goreport-svg]][goreport-url]
 [![Used By][used-by-svg]][used-by-url]
 [![Docs][docs-godoc-svg]][docs-godoc-url]
@@ -33,6 +34,8 @@ robotoRegularTTFBytes := roboto.RobotoRegular()
 
  [build-status-svg]: https://github.com/grokify/google-fonts/actions/workflows/ci.yaml/badge.svg?branch=main
  [build-status-url]: https://github.com/grokify/google-fonts/actions/workflows/ci.yaml
+ [build-status-svg]: https://github.com/grokify/google-fonts/actions/workflows/lint.yaml/badge.svg?branch=main
+ [build-status-url]: https://github.com/grokify/google-fonts/actions/workflows/lint.yaml
  [goreport-svg]: https://goreportcard.com/badge/github.com/grokify/google-fonts
  [goreport-url]: https://goreportcard.com/report/github.com/grokify/google-fonts
  [docs-godoc-svg]: https://pkg.go.dev/badge/github.com/grokify/google-fonts
