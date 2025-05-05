@@ -2,7 +2,7 @@ module github.com/grokify/google-fonts
 
 go 1.23.2
 
-require github.com/grokify/mogo v0.68.13
+require github.com/grokify/mogo v0.68.15
 
 require (
 	github.com/huandu/xstrings v1.5.0 // indirect
