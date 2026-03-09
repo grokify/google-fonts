@@ -1,11 +1,11 @@
 module github.com/grokify/google-fonts
 
-go 1.24.0
+go 1.25.0
 
-require github.com/grokify/mogo v0.72.3
+require github.com/grokify/mogo v0.73.4
 
 require (
 	github.com/huandu/xstrings v1.5.0 // indirect
-	golang.org/x/exp v0.0.0-20251209150349-8475f28825e9 // indirect
-	golang.org/x/text v0.32.0 // indirect
+	golang.org/x/exp v0.0.0-20260218203240-3dfff04db8fa // indirect
+	golang.org/x/text v0.34.0 // indirect
 )
